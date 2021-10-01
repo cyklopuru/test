@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stocklib.de%2Fmedia-79647722%2Fseamless-pattern-of-isometric-game-blocks-on-dark-violet-background-vintage-80s-style-design-clipping-mask-used.html%3Fkeyword%3Dcolor%2520clipping&psig=AOvVaw06KCOTDoKsmsLUDIBXTm7v&ust=1633188516393000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMiKg73DqfMCFQAAAAAdAAAAABBD);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 60px;
+    padding-left: 60px;
+    margin: auto;
+}
+
+div {
+    background-color: rgb(43, 43, 43);
+    font-family: verdana, arial, helvetica;
+    color: rgb(255, 255, 255);
+    box-shadow: 10px 10px 10px rgba(128, 128, 128, 0.562);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h1,
+h2,
+h3,
+p {
+    font-family: arial, arial, helvetica, sans-serif;
+    padding: 10px;
+}
+img.isobsp1{
+    float: right;
+    width: 33%;
+    height: auto;
+}
