@@ -22,12 +22,37 @@ div {
 h1,
 h2,
 h3,
-p {
+p,
+button {
     font-family: arial, arial, helvetica, sans-serif;
     padding: 10px;
+    line-height: 1.5;
+    font-size: 1.2em;
 }
-img.isobsp1{
+
+img.isobsp1 {
     float: right;
-    width: 33%;
+    width: 27%;
     height: auto;
+}
+.demo {
+    background-color: rgb(43, 43, 43);
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    transition-duration: 0.4s;
+    font-family: verdana, arial, helvetica;
+    border-radius: 3px;
+    
+}
+
+
+.demo:hover {
+    background-color: rgb(112, 112, 112);
+    color: white;
+    box-shadow: 1px 1.25px 1px rgba(128, 128, 128, 0.562);
 }
